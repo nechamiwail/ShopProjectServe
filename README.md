@@ -1,4 +1,4 @@
-Clone the repository from https://github.com/nechamiwail/ShopProjectServer.git
+Clone the repository from git clone https://github.com/nechamiwail/ShopProjectServer.git
 
 Open the sln in VS
 
