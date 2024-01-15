@@ -1,0 +1,11 @@
+@MyShopProject_HostAddress = http://localhost:5100
+
+GET {{MyShopProject_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{MyShopProject_HostAddress}}/todos/1
+Accept: application/json
+
+###
